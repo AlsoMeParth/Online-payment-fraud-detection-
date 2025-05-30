@@ -20,10 +20,10 @@ This project demonstrates a complete machine learning pipeline to detect fraudul
 
 | File | Description |
 |------|-------------|
-| `fraud_detection_model.ipynb` | Jupyter Notebook with complete ML workflow |
-| `model.pkl` | Saved model file (Random Forest) using Joblib |
-| `scaler.pkl` | Saved StandardScaler object for consistent preprocessing |
-| `streamlit_app.py` | Streamlit app for real-time fraud prediction |
+| `model.ipynb` | Jupyter Notebook with complete ML workflow |
+| `model_bundle.pkl` | Saved model file (Random Forest) using Joblib |
+| `app.py` | Streamlit app for real-time fraud prediction |
+| `requirements.txt` | Text file containing name of libraries required to run the model locally |
 | `README.md` | Project overview and usage guide |
 
 ---
@@ -55,12 +55,12 @@ pip install -r requirements.txt
 
 ### 3. Run the Jupyter Notebook
 ```bash
-jupyter notebook fraud_detection_model.ipynb
+jupyter notebook model.ipynb
 ```
 
 ### 4. Launch the Streamlit App
 ```bash
-streamlit run streamlit_app.py
+streamlit run app.py
 ```
 
 ---
