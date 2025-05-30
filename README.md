@@ -44,8 +44,8 @@ This project demonstrates a complete machine learning pipeline to detect fraudul
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/fraud-detection-ml.git
-cd fraud-detection-ml
+git clone https://github.com/AlsoMeParth/Online-payment-fraud-detection-.git
+cd Online-payment-fraud-detection-
 ```
 
 ### 2. Install Required Libraries
