@@ -73,5 +73,4 @@ streamlit run streamlit_app.py
 
 ---
 
-## ✉️ Contact
-For any queries or collaboration ideas, feel free to contact us at [your.email@example.com].
+
