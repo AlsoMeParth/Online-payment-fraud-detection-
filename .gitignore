@@ -1,5 +1,5 @@
 # Ignore large dataset files
-*.csv
+new_file.csv
 *.bin
 # Ignore all pickle files
 *.pkl
