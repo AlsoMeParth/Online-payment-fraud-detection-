@@ -1,7 +1,6 @@
 # Ignore large dataset files
 new_file.csv
 *.bin
-# Ignore all pickle files
-*.pkl
+
 # Ignore cleaned.csv specifically
 cleaned.csv
